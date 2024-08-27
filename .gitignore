@@ -1,0 +1,5 @@
+aliases.json
+users.txt
+__pycache__/config.cpython-310.pyc
+__pycache__/handlers.cpython-310.pyc
+__pycache__/utils.cpython-310.pyc
